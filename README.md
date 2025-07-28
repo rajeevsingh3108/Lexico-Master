@@ -63,3 +63,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 **LexicoMaster** – Discover words, unlock meanings!
+
+
+
+
+End of the Document :-)

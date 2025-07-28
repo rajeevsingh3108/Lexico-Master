@@ -476,9 +476,6 @@ const App = () => {
           <div className={`text-center mt-20 pt-8 border-t ${
             darkMode ? 'border-slate-700/50 text-slate-400' : 'border-slate-200/50 text-slate-600'
           }`}>
-            <p className="text-lg font-medium mb-2">
-              🚀 Powered by React, Tailwind CSS & dictionaryapi.dev
-            </p>
             <p className="text-sm">
               Built with ❤️ for word enthusiasts everywhere
             </p>
